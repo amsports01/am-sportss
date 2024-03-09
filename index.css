@@ -1,0 +1,37 @@
+body {
+    color: white;
+    background-color: rgb(48, 48, 48);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a {
+    color: white;
+    text-decoration: none   ;
+}
+
+img {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    border: 5px solid rgb(126, 60, 213);
+}
+
+
+.center {
+     text-align: center;
+}
+
+footer {
+	background-color: #9249d7;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	margin-top: 50px;
+}
